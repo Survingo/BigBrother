@@ -18,6 +18,6 @@
 namespace shoghicp\BigBrother\network;
 
 abstract class Info{
-	const VERSION = "1.8";
-	const PROTOCOL = 47;
+	const VERSION = "1.10";
+	const PROTOCOL = 210;
 }
